@@ -1,5 +1,5 @@
-I use [Dictionary API](https://dictionaryapi.dev/) to create a dictionary APP. 
-Input a word and click search button. Outcome include: the word, part of speech (pos), pronunciations (sound), and meaning.
+# I use [Dictionary API](https://dictionaryapi.dev/) to create a dictionary APP. 
+# Input a word and click the search button. The outcome include: the word, part of speech (pos), pronunciations (sound), and meaning.
 
 
 
