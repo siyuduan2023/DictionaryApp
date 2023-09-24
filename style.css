@@ -1,0 +1,31 @@
+
+body {
+    background-color:beige;
+}
+
+.container {
+    background-color: bisque;
+    width: 40%;
+    margin: auto;
+    margin-top: 200px;
+    border-radius: 10px;
+}
+
+.search {
+    width: 70%;
+    padding-top: 30px;
+    margin: auto;
+    display:flex;
+    justify-content: space-between;
+
+}
+
+.content {
+    width: 70%;
+    margin:auto;
+    text-align: left;
+}
+
+#meaning {
+    padding-bottom: 30px;
+}
