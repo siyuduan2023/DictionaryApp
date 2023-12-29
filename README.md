@@ -1,11 +1,11 @@
-# I use [Dictionary API](https://dictionaryapi.dev/) to create a dictionary APP. 
-# Input a word and click the search button. The outcome include: the word, part of speech (pos), pronunciations (sound), and meaning.
+
+# About
+I use an external API: [Dictionary API](https://dictionaryapi.dev/) to create a dictionary APP. This was a practice project while learning API with SoC full-stack development bootcamp.
+Input a word and click the search button. The outcome includes the word, part of speech (pos), pronunciations (sound), and meaning.
 
 
-
-# Fetch Recap Task
-
-Today, you will be using your newfound skills to make apps that request data from a server.
+# The given task:
+Fetch Recap Task: Today, you will be using your newfound skills to make apps that request data from a server.
 
 ## Step 1 - Choosing an API
 
