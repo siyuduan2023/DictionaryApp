@@ -6,10 +6,10 @@ body {
 .container {
     background-color: white;
     box-shadow: #ccc 0 0 10px;
-    width: 60%;
-    height: 300px;
+    width: 70%;
+    height: 70vh;
     margin: auto;
-    margin-top: 200px;
+    margin-top: 15vh;
     border-radius: 10px;
     display: flex;
     flex-direction: column;
