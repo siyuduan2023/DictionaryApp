@@ -1,10 +1,11 @@
 
 body {
-    background: linear-gradient(to right, #f9b4ab, #fdebd3);
+    background: linear-gradient(to right, black, rgb(87, 80, 80));
 }
 
 .container {
     background-color: white;
+    box-shadow: #ccc 0 0 10px;
     width: 60%;
     height: 300px;
     margin: auto;
