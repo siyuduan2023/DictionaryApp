@@ -27,7 +27,7 @@ console.log(fetchWordData());
 //   input: fetched info
 //   output: nothing (does sth, doesn't produce a value)
 function displayWordData(randomInput) {
-  const word = randomInput[0].word.toLowerCase();
+  const word = randomInput[0].word.toUpperCase();
   const pos = randomInput[0].meanings[0].partOfSpeech;
   const sound = randomInput[0].phonetic;
   const meaning = randomInput[0].meanings[0].definitions[0].definition;
